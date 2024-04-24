@@ -6,3 +6,4 @@
 * [OSDR AWGs Overview](osdr-awgs-overview.md)
 * [Welcome to the team](welcome-to-the-team.md)
 * [Current projects](current-projects.md)
+* [Tools and resources](tools-and-resources.md)
