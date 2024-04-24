@@ -1,6 +1,8 @@
 # Tools and resources
 
-Some link new tools can be found in this book.
+
+
+Follow this link to find some new bioinformatic tools&#x20;
 
 {% embed url="https://osdr.gitbook.io/cool-genetics-tools-to-play-with/" %}
 [https://osdr.gitbook.io/cool-genetics-tools-to-play-with/](https://osdr.gitbook.io/cool-genetics-tools-to-play-with/)
