@@ -1,15 +1,14 @@
 # Current projects
 
-\---&#x20;
+***
 
-Contact [richard.barker@nasa.gov](mailto:richard.barker@nasa.gov) is you’re interested in collaborating on the completion of any of these research and review papers
+**New projects:** Contact [richard.barker@nasa.gov](mailto:richard.barker@nasa.gov) is you’re interested in collaborating advancing any of these research and review papers.
 
-\
-Modelling hormones in spaceflight: [https://osdr.gitbook.io/cara-root-modelling](https://osdr.gitbook.io/cara-root-modelling)
+***
+
+
 
 Regolith review: [https://osdr.gitbook.io/regolith-review](https://osdr.gitbook.io/regolith-review)
-
-Microbe in plants in space: [https://osdr.gitbook.io/microbiome-of-seedling-in-space](https://osdr.gitbook.io/microbiome-of-seedling-in-space)
 
 Seedling in space: [https://osdr.gitbook.io/pseudo-time-series-seedling-establishment-in-micro](https://osdr.gitbook.io/pseudo-time-series-seedling-establishment-in-micro)
 
@@ -19,10 +18,16 @@ MachineLearning RNA matrix: [https://osdr.gitbook.io/ml-matrix/](https://osdr.gi
 
 Hypoxia is experienced in different ways by plants during space flight: [https://osdr.gitbook.io/is-hypoxia-experience-in-microgravity/](https://osdr.gitbook.io/is-hypoxia-experience-in-microgravity/)
 
-\---
+Plant response to radiation: [https://osdr.gitbook.io/plant-response-to-radiation/](https://osdr.gitbook.io/plant-response-to-radiation/)
 
 
 
-**Note:** I think we should try to emulate the plant-microbe interaction structure. That uses github to anchor a live Google Doc and OSDR study metadata spreadsheet.
+***
+
+**Running projects:** Microbe in plants in space: [https://osdr.gitbook.io/microbiome-of-seedling-in-space](https://osdr.gitbook.io/microbiome-of-seedling-in-space)
+
+***
+
+
 
 \
