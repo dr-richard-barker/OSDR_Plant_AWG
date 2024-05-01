@@ -15,3 +15,6 @@ Link to Plant AWG Community Diary [Click here!](https://docs.google.com/document
 [Link to membership review documentation](https://docs.google.com/spreadsheets/d/17Fw1ZKrqDEYeUoYxkhUTTk-r7Glz1fmAloXpz7Ro0bs/edit?usp=sharing)
 
 {% embed url="https://docs.google.com/spreadsheets/d/17Fw1ZKrqDEYeUoYxkhUTTk-r7Glz1fmAloXpz7Ro0bs/edit?usp=sharing" %}
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Welcome aboard, we look forward to collaborating with you. </p></figcaption></figure>
+
