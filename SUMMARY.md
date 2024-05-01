@@ -1,6 +1,6 @@
 # Table of contents
 
-* [OSDR\_Plant\_AWG Action Plan](README.md)
+* [Plant AWG Action Plan](README.md)
 * [Extra figures from the matrix paper](extra-figures-from-the-matrix-paper.md)
 * [Welcome to the team](welcome-to-the-team.md)
 * [Plants AWG Overview](plants-awg-overview.md)

@@ -1,4 +1,10 @@
-# OSDR\_Plant\_AWG Action Plan
+---
+description: >-
+  The NASA Open Science Data Repository (OSDR) Analysis Working Group (AWG)
+  needs your help!
+---
+
+# Plant AWG Action Plan
 
 Link to Plant AWG Community Diary [Click here!](https://docs.google.com/document/d/1yXqnamKvrzBq-P0H-DuCmU\_BjZ6ZOCg9xqzlVXfQblM/edit?usp=sharing)
 
