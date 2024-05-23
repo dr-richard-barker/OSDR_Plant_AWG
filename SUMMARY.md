@@ -8,4 +8,4 @@
 * [Current projects](current-projects.md)
 * [Tools and resources for quick insights.](tools-and-resources-for-quick-insights..md)
 * [Training recormendations](training-recormendations.md)
-* [Guide to setting up a new focus group](guide-to-setting-up-a-new-focus-group.md)
+* [How to setup a focus group](how-to-setup-a-focus-group.md)
