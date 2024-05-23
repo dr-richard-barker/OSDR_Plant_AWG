@@ -6,7 +6,7 @@
 * We have a new election cycle coming in the spring so please come join the plant analysis working group.
 * [Apply to join the GeneLab plant analysis working group](https://osdr.nasa.gov/bio/awg/join.html)
 
-### Select one of the following subdirectories to view the group's work:
+### Select one of the following subdirectories to view the group's work in the OSDR github repository:
 
 
 

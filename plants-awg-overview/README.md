@@ -10,6 +10,6 @@ The Plants Analysis Working Group is comprised of international research scienti
 
 **Actin**
 
-<figure><img src=".gitbook/assets/AF-Q7XZJ6-F1.png" alt=""><figcaption><p>Actin</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/AF-Q7XZJ6-F1.png" alt=""><figcaption><p>Actin</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/Act_zoom_AF-Q7XZJ6-F1 (1).png" alt="" width="375"><figcaption><p>Zoomed into see actin hydrogen bonding up close.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Act_zoom_AF-Q7XZJ6-F1 (1).png" alt="" width="375"><figcaption><p>Zoomed into see actin hydrogen bonding up close.</p></figcaption></figure>
