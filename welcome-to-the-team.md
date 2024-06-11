@@ -15,7 +15,9 @@
 * [Plants Ongoing Projects](https://docs.google.com/document/d/1Xx-xSy7FsGi-s-74\_HaDYw-C\_3OcdAT2jbB0B4bTP0k/edit#heading=h.95b7h6a5lge5)
 * [Plants Completed Projects](https://docs.google.com/document/d/1uMisuLWh6iKyut0DnNv4tF5A-Xj0vDn6vOyMRAVTF7g/edit#heading=h.skv70enopj64)
 
-### We encourage you to complete these training goals to assist with group project collaboration and focus group communication.
+### We encourage you to complete these training goals.
+
+### They assist with focus group project collaboration and help facilitate sharing of high-order data produced amongst focus group members.&#x20;
 
 
 
@@ -34,8 +36,8 @@
 | Create your professional OSDR SPACE communication avatar                                      | [https://awg.osdr.space/](https://awg.osdr.space/)                                                                                                                                                                                  |
 |                                                                                               | **Post training goals**                                                                                                                                                                                                             |
 | Project management systems                                                                    | Google doc for brainstorming, google spreadsheet for defining workpackage, github for sharing code, results, figures, gitbook for writing up reports. Google slide shows can be used to share research story boards or "narratives" |
-| Read through the AWG focus group gitbook and select your favorite then have fun researching!  | Read and make notes                                                                                                                                                                                                                 |
-| Google document for brainstorming                                                             |                                                                                                                                                                                                                                     |
+| Read through the AWG focus group gitbook and select your favorite then have fun researching!  | Read your favourite gitbook, examine the data in the slides and linked pository.                                                                                                                                                    |
+| Google document for brainstorming                                                             | Please make notes to help share your thoughts and any questions that come to mind.                                                                                                                                                  |
 | Google sheet for work package definition                                                      | Insert new workpacka titles or add more deliverables to previous workpackages or complete the analysis yourself.                                                                                                                    |
 | Free software carpentry course                                                                | [https://software-carpentry.org/lessons/](https://software-carpentry.org/lessons/)                                                                                                                                                  |
-| TOPS101                                                                                       |                                                                                                                                                                                                                                     |
+| TOPS101                                                                                       | [https://nasa.github.io/Transform-to-Open-Science/](https://nasa.github.io/Transform-to-Open-Science/)                                                                                                                              |
