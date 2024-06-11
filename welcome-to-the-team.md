@@ -1,10 +1,10 @@
 # Welcome to the team
 
-### Current leads:
+**If you're not already a member please** [Apply to join the GeneLab plant analysis working group](https://osdr.nasa.gov/bio/awg/join.html).
 
-* Dr Richard Barker, Honorary fellow of the University of Wisconsin-Madison, Blue Marble Space Institute of Science (BMSIS) and the NASA Open Science Archive.
-* We have a new election cycle coming in the spring so please come join the plant analysis working group.
-* [Apply to join the GeneLab plant analysis working group](https://osdr.nasa.gov/bio/awg/join.html)
+Dr Richard Barker, Honorary fellow of the University of Wisconsin-Madison, Blue Marble Space Institute of Science (BMSIS) and the NASA Open Science Archive welcomes you to the Plant AWG Work collaborative environment.&#x20;
+
+We have a new election cycle coming in the spring so please come join the plant analysis working group.
 
 ### Select one of the following subdirectories to view the group's work in the OSDR github repository:
 
