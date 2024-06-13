@@ -46,6 +46,12 @@
 
 
 
+**Data management in large scale education research.**&#x20;
+
+{% embed url="https://datamgmtinedresearch.com/" %}
+
+***
+
 **Software carpentry - practice the fundamentals**&#x20;
 
 [**lessons**](https://software-carpentry.org/lessons/)
