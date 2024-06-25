@@ -1,6 +1,6 @@
-# Sign-up sheet for potential skills
+# Volunteer skills sign-up sheet
 
-Please[ sign up to sharing your skills ](https://docs.google.com/forms/d/e/1FAIpQLSc5pjebA8REXsT7fmPTWIVvIJxfg4gbBjFHFSkfsswORFWA\_g/viewform)to help us find projects where you can help out.&#x20;
+Please [sign up to sharing your skills](https://forms.gle/1VXtTy33MfvxuauCA) to help us find projects where you can help out.&#x20;
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLSdHPT4BLEFWF3XJVO99Rnv7czY62Yl-TZc0k4JIc8mvnemdew/viewform" %}
 
