@@ -1,6 +1,6 @@
-# Topic / Discussion sign up form
+# Topic / Discussion sign-up form
 
-Please use this form [to sign up to give a talk or discussion topic](https://docs.google.com/forms/d/e/1FAIpQLSc5pjebA8REXsT7fmPTWIVvIJxfg4gbBjFHFSkfsswORFWA\_g/viewform)
+Please use this form [to sign-up to give a talk or discussion topic](https://docs.google.com/forms/d/e/1FAIpQLSc5pjebA8REXsT7fmPTWIVvIJxfg4gbBjFHFSkfsswORFWA\_g/viewform)
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLSc5pjebA8REXsT7fmPTWIVvIJxfg4gbBjFHFSkfsswORFWA_g/viewform" %}
 
