@@ -7,6 +7,5 @@
 * [Plants AWG Overview](plants-awg-overview/README.md)
 * [Current AWG focus group projects](current-awg-focus-group-projects.md)
 * [Previous work: "The matrix paper"](previous-work-the-matrix-paper.md)
-* [Tools for quick astrobotany insights.](tools-for-quick-astrobotany-insights..md)
 * [Training recormendations](training-recormendations.md)
 * [How to setup a focus group](how-to-setup-a-focus-group.md)
