@@ -1,8 +1,18 @@
 # Training recormendations
 
-**NASA TOPS**
+The following resource provides a diverse collection of innovative research tools that may significantly assist you in completing your research papers more efficiently and effectively. To explore these valuable tools, please visit the following link: [Research Tools Collection](http://example.com). By leveraging these resources, you can enhance the quality and depth of your academic work.
 
-[Transform-to-Open-Science](https://nasa.github.io/Transform-to-Open-Science/)
+{% embed url="https://osdr.gitbook.io/cool-genetics-tools-to-play-with" %}
+[https://osdr.gitbook.io/cool-genetics-tools-to-play-with](https://osdr.gitbook.io/cool-genetics-tools-to-play-with)
+{% endembed %}
+
+
+
+***
+
+
+
+**NASA TOPS:** [Transform-to-Open-Science](https://nasa.github.io/Transform-to-Open-Science/)
 
 {% embed url="https://nasa.github.io/Transform-to-Open-Science/" %}
 [https://nasa.github.io/Transform-to-Open-Science/](https://nasa.github.io/Transform-to-Open-Science/)
@@ -22,21 +32,13 @@
 
 
 
-**Gitpod chrome extension is really helpful.**&#x20;
+**Gitpod chrome extension is really helpful as it creates a gitpod launch button on your github repo that can allow you to launch it into a custom cloud development environment.** &#x20;
 
-[browser-extension](https://github.com/gitpod-io/browser-extension)
-
-{% embed url="https://github.com/gitpod-io/browser-extension" %}
-[https://github.com/gitpod-io/browser-extension](https://github.com/gitpod-io/browser-extension)
-{% endembed %}
+[Gipod Browser-extension](https://github.com/gitpod-io/browser-extension)
 
 ***
 
-
-
-**Gitpod uses the "VS cell" code development environment**
-
-[jupyter-notebooks](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
+**Gitpod uses the "VS cell" code development environment: Find out more about how you can develope** [python\_jupyter\_notebooks](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
 
 {% embed url="https://code.visualstudio.com/docs/datascience/jupyter-notebooks" %}
 [https://code.visualstudio.com/docs/datascience/jupyter-notebooks](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
