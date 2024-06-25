@@ -3,6 +3,7 @@
 * [Plant AWG Action Plan](README.md)
 * [Welcome to the team](welcome-to-the-team.md)
 * [Topic / Discussion sign up form](plants-awg-overview/osdr-awgs-overview.md)
+* [Sign-up sheet for potential skills](sign-up-sheet-for-potential-skills.md)
 * [Plants AWG Overview](plants-awg-overview/README.md)
 * [Previous work: "The matrix paper"](previous-work-the-matrix-paper.md)
 * [Links to current AWG projects](links-to-current-awg-projects.md)
