@@ -10,7 +10,7 @@ First, assess the data in OSDR and related NASA Biological resources then outlin
 
 * **Team Composition:** Identify the team members and their specific bioinformatics expertise (e.g., genomics, transcriptomics, proteomics).
 * **Role Definition:** Clearly define roles for each researcher (e.g., Prof, data analysis lead, scripting expert, visualization specialist, referencing lead, communications lead).
-* **Communication Channels:** Establish preferred communication methods (e.g., weekly or monthly virtual meetings, project management software (See example spread sheets), instant messaging (eg OSDR 'Discourse' [https://awg.osdr.space/](https://awg.osdr.space/))).
+* **Communication Channels:** Establish preferred communication methods (e.g., weekly or monthly virtual meetings, project management software (See example spreadsheets), instant messaging (eg OSDR 'Discourse' [https://awg.osdr.space/](https://awg.osdr.space/))).
 
 <figure><img src=".gitbook/assets/image (6).png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -20,23 +20,25 @@ First, assess the data in OSDR and related NASA Biological resources then outlin
 * **Project Objectives:** Outline specific, measurable, achievable, relevant, and time-bound (SMART) objectives for the research.
 * **Deliverables:** Identify specific deliverables for each project phase (e.g., data analysis reports, code repositories, publications).
 
-<figure><img src=".gitbook/assets/image (5).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5).png" alt="" width="563"><figcaption><p>What can you imagine?</p></figcaption></figure>
 
 **3. Project Management Tools and Practices:**
 
-* **Project Management Software:** Consider using software (e.g., Asana, Trello, github or Spread sheet ganntt chart examples) to track tasks, deadlines, and dependencies between analyses.
+* **Project Management Software:** Consider using software (e.g., Asana, Trello, github or Spread sheet Gantt chart examples) to track tasks, deadlines, and dependencies between analyses.
 * **Version Control System:** Implement a version control system (e.g., **Github**) to track code changes and facilitate collaboration by centralising figure and data saving.
 * **Data Management Plan:** Develop a plan for data storage, organization, and access to ensure data integrity and reproducibility (Goal to submit repository to **Zenodo** to generate DOI along with a reseach paper summarizing insights).
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>What parts of the ecosystem do you like the most.</p></figcaption></figure>
 
 
 
 **4. Collaboration and Knowledge Sharing:**
 
-* **Regular Meetings:** Schedule weekly or bi-weekly team meetings to discuss progress, challenges, and plan future steps (Save slide shows in repo & share in gitbook to create a record of intermediate data products and insights).
+* **Regular Meetings:** Schedule weekly or bi-weekly team meetings to discuss progress, and challenges, and plan future steps (Save slide shows in repo & share in gitbook to create a record of intermediate data products and insights).
 * **Knowledge Sharing Sessions:** Encourage researchers to share their expertise through team presentations or code walkthroughs (**Design hackathons with specific goals**).
 * **Collaborative Resources:** Create a centralized repository (**Github**) for research protocols, scripts, and data analysis pipelines to avoid duplication and loss. This is a great place to save the results from the NASA open science data archive data visualisation application.&#x20;
+
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -47,8 +49,6 @@ First, assess the data in OSDR and related NASA Biological resources then outlin
 * **Data Analysis Validation:** Define strategies for validating data analyses and ensuring reproducibility.
 
 
-
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 **6. Resource Management and Training:**
 
