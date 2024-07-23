@@ -1,10 +1,14 @@
-# Current projects
+# Current AWG focus group projects
 
 ***
 
 **New projects:** Contact [richard.barker@nasa.gov](mailto:richard.barker@nasa.gov) if you’re interested in collaborating and advancing any of these research and review papers.
 
 
+
+Plant for space nutironal review: [https://osdr.gitbook.io/banana-and-kale-after-flight](https://osdr.gitbook.io/banana-and-kale-after-flight)
+
+{% embed url="https://osdr.gitbook.io/banana-and-kale-after-flight" %}
 
 Plant tropisms: [https://osdr.gitbook.io/gravitropism/](https://osdr.gitbook.io/gravitropism/)
 
