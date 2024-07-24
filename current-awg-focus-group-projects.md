@@ -6,9 +6,15 @@
 
 
 
-Plant for space nutironal review: [https://osdr.gitbook.io/banana-and-kale-after-flight](https://osdr.gitbook.io/banana-and-kale-after-flight)
+Plant for space nutritional review: [https://osdr.gitbook.io/banana-and-kale-after-flight](https://osdr.gitbook.io/banana-and-kale-after-flight)
 
 {% embed url="https://osdr.gitbook.io/banana-and-kale-after-flight" %}
+
+Plant in space might contain microbes [https://osdr.gitbook.io/microbiome-of-seedling-in-space](https://osdr.gitbook.io/microbiome-of-seedling-in-space)
+
+{% embed url="https://osdr.gitbook.io/microbiome-of-seedling-in-space" %}
+
+
 
 Plant tropisms: [https://osdr.gitbook.io/gravitropism/](https://osdr.gitbook.io/gravitropism/)
 
