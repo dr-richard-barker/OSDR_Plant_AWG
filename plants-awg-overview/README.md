@@ -12,7 +12,7 @@ The Plants Analysis Working Group is comprised of international research scienti
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>What are the specific hardware constrainsts. </p></figcaption></figure>
 
-### Our goal is to better understand how this will affect crop performance.
+### Our goal is to understand how this will affect crop performance so we need to create or find some new databases.
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Knowldge databses we need to collect, analyze and share. </p></figcaption></figure>
 
